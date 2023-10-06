@@ -1,0 +1,167 @@
+[
+  {
+    "questions": "1. Tycker du om att gå på promenader?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 0,
+    "fiskNej": 2
+  },
+  {
+    "questions": "2. Tycker du om att städa?",
+    "hundJa": 2,
+    "kattJa": 2,
+    "kaninJa": 1,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 0,
+    "kaninNej": 1,
+    "fiskNej": 2
+  },
+  {
+    "questions": "3. Jobbar du hemifrån?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 2
+  },
+  {
+    "questions": "4. Har du pälsallergi?",
+    "hundJa": 0,
+    "kattJa": 0,
+    "kaninJa": 0,
+    "fiskJa": 2,
+    "hundNej": 2,
+    "kattNej": 2,
+    "kaninNej": 2,
+    "fiskNej": 0
+  },
+  {
+    "questions": "5. Vill du kunna mysa med ditt djur?",
+    "hundJa": 2,
+    "kattJa": 2,
+    "kaninJa": 2,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 0,
+    "kaninNej": 0,
+    "fiskNej": 2
+  },
+  {
+    "questions": "6. Bor du i en lägenhet?",
+    "hundJa": 1,
+    "kattJa": 2,
+    "kaninJa": 2,
+    "fiskJa": 2,
+    "hundNej": 2,
+    "kattNej": 2,
+    "kaninNej": 2,
+    "fiskNej": 2
+  },
+  {
+    "questions": "7. Har du en stor boyta?",
+    "hundJa": 2,
+    "kattJa": 2,
+    "kaninJa": 1,
+    "fiskJa": 1,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 2
+  },
+  {
+    "questions": "8. Har du mycket tid över på dagarna?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 1,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 2
+  },
+  {
+    "questions": "9. Gillar du att vakna tidigt på morgonen?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 0,
+    "fiskNej": 2
+  },
+  {
+    "questions": "10. Är du ljudkänslig?",
+    "hundJa": 0,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 2,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 0
+  },
+  {
+    "questions": "11. Gillar du ordning o reda?",
+    "hundJa": 0,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 2,
+    "hundNej": 2,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 0
+  },
+  {
+    "questions": "12. Tycker du om att vara ute på vintern?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 2
+  },
+  {
+    "questions": "13. Har du en trädgård?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 2,
+    "fiskJa": 0,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 2
+  },
+  {
+    "questions": "14. Är du mörkrädd?",
+    "hundJa": 0,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 2,
+    "hundNej": 2,
+    "kattNej": 2,
+    "kaninNej": 2,
+    "fiskNej": 2
+  },
+  {
+    "questions": "15. Är du tålmodig?",
+    "hundJa": 2,
+    "kattJa": 1,
+    "kaninJa": 1,
+    "fiskJa": 2,
+    "hundNej": 0,
+    "kattNej": 1,
+    "kaninNej": 1,
+    "fiskNej": 2
+  }
+]
